@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="label_call">Call</string>
+    <string name="label_video">Video</string>
+    <string name="msg_coming_soon">Coming soon</string>
+    <string name="msg_input">Input message</string>
+</resources>

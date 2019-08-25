@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding_five">5dp</dimen>
+    <dimen name="padding_ten">10dp</dimen>
+    <dimen name="padding_sixteen">16dp</dimen>
+    <dimen name="icon_size">40dp</dimen>
+    <dimen name="chat_width">100dp</dimen>
+
+</resources>
